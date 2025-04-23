@@ -1,0 +1,134 @@
+body {
+  background: lightblue;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  background: linear-gradient(to right, yellow,orange,red,pink,violet,purple,blue,aqua,lime,green,darkgreen,brown);
+  font-size: 60px;
+  color: darkblue;
+  text-shadow: 5px 2px 3px aqua;
+  font-family: "Press Start 2P", system-ui;
+  font-weight:700;
+  text-transform:capitalize;
+}
+div{
+  margin-top: 450px;
+}
+.a{
+  font-size: 50px;
+  color: blue;
+  text-shadow: 5px 2px 3px blueviolet;
+  font-family: fantasy;
+}
+.pe{
+  font-size: 50px;
+  color: brown;
+  text-shadow: 5px 2px 3px darkorange;
+  font-family: fantasy;
+}
+.di{
+  font-size: 50px;
+  color: lightblue;
+  font-family: fantasy;
+}
+.bot{
+  border: gold solid 5px;
+  font-size: 50px;
+  padding: 10px 5px;
+  background-color: lightskyblue;
+  color: blue;
+  border-radius: 25%;
+  width: 300px;         
+  text-decoration: none;
+}
+.bot:hover{
+  border: lightskyblue solid 5px;
+  font-size: 50px;
+  border-radius: 10% 20%;
+  background-color: gold;
+  color: brown;
+  font-weight: bold;
+  box-shadow: -5px 5px 2px darkgoldenrod;
+  text-decoration: none;
+}
+.bot1{
+  border: lightblue solid 5px;
+  font-size: 50px;
+  padding: 10px 5px;
+  background-color: lightblue;
+  color: lightblue;
+  border-radius: 25%;
+  width: 300px;         
+  text-decoration: none;
+}
+.bot1:hover{
+  border: lightskyblue solid 5px;
+  font-size: 50px;
+  border-radius: 10% 20%;
+  background-color: gold;
+  color: brown;
+  font-weight: bold;
+  box-shadow: -5px 5px 2px darkgoldenrod;
+  text-decoration: none;
+}
+.bot2{
+  border: blue solid 5px;
+  box-shadow: 5px 5px 2px darkslateblue;
+  background-color: lightskyblue;
+  color: blue;
+  text-shadow: 5px 2px 3px blueviolet;
+  font-size: 50px;
+  padding: 10px 5px;
+  border-radius: 25%;
+  width: 300px;         
+  text-decoration: none;
+}
+.bot2:hover{
+  border: lightskyblue solid 5px;
+  font-size: 50px;
+  border-radius: 10% 20%;
+  background-color: gold;
+  color: brown;
+  font-weight: bold;
+  box-shadow: -5px 5px 2px darkgoldenrod;
+  text-decoration: none;
+}
+.aa{
+  color: lightblue;
+  text-decoration: none;
+  text-shadow: 2px 2px 2px lightblue;
+}
+.di{
+  color: lightblue;
+}
+.bot3{
+  color: lightblue;
+  font-family: "Rubik Burned", system-ui;
+  text-transform:uppercase;
+  text-shadow: 5px 2px 3px lightblue;
+  font-size: 50px;
+  padding: 10px 5px;
+  border-radius: 25%;
+  width: 300px;         
+  text-decoration: none;
+}
+.bot4{
+  border: gold solid 5px;
+  font-size: 50px;
+  padding: 10px 5px;
+  background-color: lightskyblue;
+  color: lightskyblue;
+  border-radius: 25%;
+  width: 300px;         
+  text-decoration: none;
+}
+.bot4:hover{
+  border: lightskyblue solid 5px;
+  font-size: 50px;
+  border-radius: 10% 20%;
+  background-color: lightblue;
+  color: lightskyblue;
+  font-weight: bold;
+  box-shadow: -5px 5px 2px darkgoldenrod;
+  text-decoration: none;

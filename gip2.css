@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  height: 100vh; 
+  background: linear-gradient(to top right, lightskyblue, aqua, blue, aqua, lightskyblue);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p{
+  font-size: 50px;
+  color: goldenrod;
+  text-shadow: 5px 2px 3px darkgoldenrod;
+  font-family: fantasy;
+}
+.bot{
+  border: gold solid 5px;
+  font-size: 50px;
+  padding: 10px 5px;
+  background-color: lightskyblue;
+  color: blue;
+  border-radius: 25%;
+  width: 300px;         
+  text-decoration: none;
+}
+.bot:hover{
+  border: lightskyblue solid 5px;
+  font-size: 50px;
+  border-radius: 10% 20%;
+  background-color: gold;
+  color: brown;
+  font-weight: bold;
+  box-shadow: -5px 5px 2px darkgoldenrod;
+  text-decoration: none;
+}
+img{
+  width: 300px;
+  height:300px;
+}
+
